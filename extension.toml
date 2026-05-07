@@ -1,0 +1,7 @@
+id = "darkextended"
+name = "Dark Extended"
+version = "0.0.1"
+schema_version = 1
+authors = ["Piush Bose"]
+description = "This the extended default theme for minimalists"
+repository = "https://github.com/dtg-lucifer/zed-dark-exnteded-theme"
